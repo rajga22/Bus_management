@@ -1,4 +1,4 @@
-This Java application called the Bus Management System was created to automate the management of bus fleets and passenger reservations. The system tackles typical operational issues by substituting automated methods for manual ones, improving bus management and ticketing operations' correctness and efficiency.
+This Java program called the Bus Management System was created to automate the management of bus fleets and passenger reservations. The system tackles typical operational issues by substituting automated methods for manual ones, improving bus management and ticketing operations' correctness and efficiency.
 
 System Characteristics
 Administrators can add buses with predetermined numbers and seating capacities using the "bus addition" feature.

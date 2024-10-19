@@ -1,13 +1,11 @@
-This Java program called the Bus Management System was created to automate the management of bus fleets and passenger reservations. The system tackles typical operational issues by substituting automated methods for manual ones, improving bus management and ticketing operations' correctness and efficiency.
+Program Overview
+Program Name: GuessingGame
+Author: Self-written
+Date Created: April 12, 2022
+Version: Java SE 16.0.2
 
-System Characteristics
-Administrators can add buses with predetermined numbers and seating capacities using the "bus addition" feature.
-Automated ticket booking ensures that riders are properly seated in buses that have seats available.
-Bus Display: Promotes operational transparency by providing a list of all buses that are available and their state.
-User Interface: Provides a menu-driven console interface that quickly and easily leads users through the different system capabilities.
+Description
+GuessingGame is a Java-based application designed to be an engaging and competitive guessing game for multiple players. Each player attempts to guess a randomly generated number within a specified range. The game tracks the number of attempts made by each player, with the player who guesses the number with the fewest attempts being declared the winner of that round. The game can be played in multiple rounds, with scores accumulated over rounds to determine an overall winner.
 
-Master.java is the driver code. 
-
-Future Development:
-Ticket Cancellation: Provide a feature that makes it possible to cancel already-made reservations.
-Persistent Data preservation: To preserve data integrity and enable long-term preservation, put in place a database.
+Key Features:
+Flexible Number of Players: Supports any number of players. Players can be human or computer

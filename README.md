@@ -1,6 +1,6 @@
 Program Overview
 
-Program Name: GuessingGame
+Program Name: Guessing Game
 
 Author: Self-written
 
